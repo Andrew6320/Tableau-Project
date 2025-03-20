@@ -1,0 +1,79 @@
+﻿Precinct Number,Precinct Name,Borough,Latitude,Longitude
+1,1st Precinct - Lower Manhattan,Manhattan,40.7195,-74.0024
+5,5th Precinct - Chinatown,Manhattan,40.718,-73.9987
+6,6th Precinct - Greenwich Village,Manhattan,40.734,-73.9987
+7,7th Precinct - Lower East Side,Manhattan,40.7171,-73.9812
+9,9th Precinct - East Village,Manhattan,40.7265,-73.9823
+10,10th Precinct - Chelsea,Manhattan,40.743,-73.9984
+13,13th Precinct - Flatiron District,Manhattan,40.7417,-73.9885
+14,14th Precinct - Midtown South,Manhattan,40.7228,-73.9824
+17,17th Precinct - Midtown East,Manhattan,40.7537,-73.9737
+18,18th Precinct - Midtown South,Manhattan,40.6906,-73.9507
+19,19th Precinct - Upper East Side,Manhattan,40.7741,-73.9549
+20,20th Precinct - Upper West Side,Manhattan,40.7812,-73.9754
+22,22nd Precinct - Central Park,Manhattan,40.65,-73.9875
+23,23rd Precinct - East Harlem,Manhattan,40.7995,-73.9376
+24,24th Precinct - Morningside Heights,Manhattan,40.8164,-73.9632
+25,25th Precinct - East Harlem,Manhattan,40.7994,-73.9365
+26,26th Precinct - Upper West Side,Manhattan,40.7843,-73.9742
+28,28th Precinct - Harlem,Manhattan,40.8115,-73.9451
+30,30th Precinct - Upper West Side,Manhattan,40.7813,-73.9755
+32,32nd Precinct - Central Harlem,Manhattan,40.8187,-73.9494
+33,33rd Precinct - Washington Heights,Manhattan,40.8614,-73.9277
+34,34th Precinct - Fort George,Manhattan,40.86,-73.9305
+40,40th Precinct - Mott Haven,Bronx,40.817,-73.9175
+41,41st Precinct - Hunts Point,Bronx,40.8146,-73.8799
+42,42nd Precinct - Morrisania,Bronx,40.843,-73.914
+43,43rd Precinct - Soundview,Bronx,40.8283,-73.8762
+44,44th Precinct - Concourse,Bronx,40.8551,-73.9141
+45,45th Precinct - Throggs Neck,Bronx,40.8372,-73.8346
+46,46th Precinct - Fordham,Bronx,40.8674,-73.896
+47,47th Precinct - Eastchester,Bronx,40.8767,-73.8587
+48,48th Precinct - Belmont,Bronx,40.859,-73.8763
+49,49th Precinct - Pelham Parkway,Bronx,40.882,-73.8581
+50,50th Precinct - Riverdale,Bronx,40.8944,-73.9174
+52,52nd Precinct - Norwood,Bronx,40.8769,-73.8955
+60,60th Precinct - Coney Island,Brooklyn,40.5774,-73.9734
+61,61st Precinct - Sheepshead Bay,Brooklyn,40.594,-73.9511
+62,62nd Precinct - Bensonhurst,Brooklyn,40.6027,-73.9989
+63,63rd Precinct - Midwood,Brooklyn,40.6277,-73.9641
+66,66th Precinct - Borough Park,Brooklyn,40.6277,-73.9875
+67,67th Precinct - Flatbush,Brooklyn,40.6411,-73.9519
+68,68th Precinct - Bay Ridge,Brooklyn,40.6337,-74.03
+69,69th Precinct - Canarsie,Brooklyn,40.6407,-73.9001
+70,70th Precinct - Kensington,Brooklyn,40.6403,-73.976
+71,71st Precinct - Crown Heights,Brooklyn,40.67,-73.9427
+72,72nd Precinct - Sunset Park,Brooklyn,40.6407,-74.0167
+73,73rd Precinct - Brownsville,Brooklyn,40.6664,-73.8997
+75,75th Precinct - East New York,Brooklyn,40.6756,-73.8863
+76,76th Precinct - Red Hook,Brooklyn,40.6755,-74.0103
+77,77th Precinct - Prospect Heights,Brooklyn,40.6739,-73.965
+78,78th Precinct - Park Slope,Brooklyn,40.6703,-73.9819
+79,79th Precinct - Bedford-Stuyvesant,Brooklyn,40.6844,-73.9445
+81,81st Precinct - Bushwick,Brooklyn,40.6925,-73.9169
+83,83rd Precinct - Bushwick,Brooklyn,40.6925,-73.9169
+84,84th Precinct - Downtown Brooklyn,Brooklyn,40.6925,-73.9902
+88,88th Precinct - Fort Greene,Brooklyn,40.6905,-73.9651
+90,90th Precinct - Williamsburg,Brooklyn,40.7122,-73.9571
+94,94th Precinct - Greenpoint,Brooklyn,40.741,-73.9517
+100,100th Precinct - Rockaway,Queens,40.7891,-73.9486
+101,101st Precinct - Far Rockaway,Queens,40.7487,-73.9705
+102,102nd Precinct - Kew Gardens,Queens,40.779,-73.9483
+103,103rd Precinct - Jamaica,Queens,40.6159,-73.9167
+104,104th Precinct - Ridgewood,Queens,40.7057,-73.9066
+105,105th Precinct - Queens Village,Queens,40.7249,-73.7589
+106,106th Precinct - Howard Beach,Queens,40.6402,-73.835
+107,107th Precinct - Jamaica Estates,Queens,40.7116,-73.7805
+108,108th Precinct - Long Island City,Queens,40.7458,-73.9506
+109,109th Precinct - Flushing,Queens,40.759,-73.8277
+110,110th Precinct - Elmhurst,Queens,40.7467,-73.8834
+111,111th Precinct - Bayside,Queens,40.7662,-73.7733
+112,112th Precinct - Forest Hills,Queens,40.8391,-73.87
+113,113th Precinct - St. Albans,Queens,40.6928,-73.7839
+114,114th Precinct - Astoria,Queens,40.7572,-73.9223
+115,115th Precinct - Jackson Heights,Queens,40.7499,-73.8893
+120,120th Precinct - St. George,Staten Island,40.6452,-74.0793
+121,121st Precinct - New Dorp,Staten Island,40.5703,-74.1443
+122,122nd Precinct - Tottenville,Staten Island,40.5123,-74.2579
+123,123rd Precinct - South Shore,Staten Island,40.5594,-74.1469
+,,,,
